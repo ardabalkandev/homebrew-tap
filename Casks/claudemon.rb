@@ -1,6 +1,6 @@
 cask "claudemon" do
-  version "1.4.0"
-  sha256 "5c24c8d0d50a4fa327ed79d10d17cc02ec2a865584aa6fd8dbcaf58f3e0a209e"
+  version "1.4.1"
+  sha256 "4c136298e2ed317ceb10ea53587d76d54847e65d2650880609e6fcbf70b193aa"
 
   url "https://github.com/ardabalkandev/claudemon/releases/download/v#{version}/Claudemon.dmg"
   name "Claudemon"
